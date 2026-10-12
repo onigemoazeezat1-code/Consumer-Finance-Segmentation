@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Local data (check dataset terms before sharing)
+data/*.csv
+data/*.csv.gz
+data/*.zip
+
+# Environment and OS files
+.env
+.DS_Store
+Thumbs.db
